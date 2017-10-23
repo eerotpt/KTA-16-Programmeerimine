@@ -12,7 +12,7 @@ namespace _08_Excuses
         {
 
             string[] excuses = new[] { "Koer sõi ära", "Ema ei luba" };
-            int i = 1;
+           // int i = 1;
             foreach (var excuse in excuses)
             {
                 Console.WriteLine($"{i + 1}. {excuses[i]}");
