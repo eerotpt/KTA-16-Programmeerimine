@@ -10,6 +10,18 @@ namespace _04_exercise_4
     {
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("Mina olen kalkulaatori programm.Ütle mulle 2 numbrit ja ma ütlen sulle nende summa");
+            Console.Write("Esimene number: ");
+            string esimeneNumber;
+            esimeneNumber = Console.ReadLine();
+            Console.Write("Teine number: ");
+            string.teineNumber;
+
+
+
+
         }
     }
 }
